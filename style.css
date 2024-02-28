@@ -1,0 +1,47 @@
+/* 
+.head{
+    background-color: black;
+    color: white;
+}
+
+#test{
+
+    background-color: blue;
+    color: black;
+}
+
+h1{
+    background-color: aqua  !important;
+    color: brown !important;
+}
+
+
+
+
+.hov:hover{
+    background-color: blue;
+    color: white;
+}
+
+.fu:focus{
+background-color: blanchedalmond;
+color: brown;
+font-size: 30px;
+
+}
+
+ul li:nth-child(2n){
+    background-color: brown;
+}
+ul li:nth-child(2n+1){
+    background-color: rgb(42, 44, 165);
+} */
+
+
+/* .header-box{
+    height: 200px;
+} */
+
+#navbarLight{
+    text-align: center;
+}
